@@ -51,7 +51,7 @@
     "seneca-promisify": ">=3"
   },
   "dependencies": {
-    "cookie": "^0.6.0"
+    "cookie": "^0.7.0"
   },
   "bugs": {
     "url": "https://github.com/senecajs/seneca-gateway-lambda/issues"
