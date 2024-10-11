@@ -1,20 +1,20 @@
 {
-  "name": "@seneca/gateway-lambda",
+  "name": "@plantquest/gateway-lambda",
   "version": "1.1.0",
   "main": "dist/gateway-lambda.js",
   "type": "commonjs",
   "types": "dist/gateway-lambda.d.ts",
   "description": "Handle incoming messages within AWS Lambdas.",
-  "homepage": "https://github.com/senecajs/seneca-gateway-lambda",
+  "homepage": "https://github.com/plantquest/seneca-gateway-lambda",
   "keywords": [
     "gateway",
     "lambda",
     "seneca"
   ],
-  "author": "Richard Rodger - richardrodger.com",
+  "author": "Kieran Desmond",
   "repository": {
     "type": "git",
-    "url": "git://github.com/senecajs/seneca-gateway-lambda.git"
+    "url": "git://github.com/plantquest/seneca-gateway-lambda.git"
   },
   "scripts": {
     "test": "jest --coverage",
@@ -54,7 +54,7 @@
     "cookie": "^0.6.0"
   },
   "bugs": {
-    "url": "https://github.com/senecajs/seneca-gateway-lambda/issues"
+    "url": "https://github.com/plantquest/seneca-gateway-lambda/issues"
   },
   "directories": {
     "test": "test"
